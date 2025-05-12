@@ -1,3 +1,6 @@
+[📄 Final Project Report](./Final%20Project%20Report.pdf)
+
+
 # Stroke Data Analysis and Visualization
 
 ## Course Information
@@ -83,6 +86,8 @@ The study highlights the significant roles of age, heart disease, average glucos
 - **Saurav Dahal:** Research Question 4
 
 ## Data Availability
+
+
 
 - The dataset used in this study is publicly available on Kaggle: [Stroke Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
 
